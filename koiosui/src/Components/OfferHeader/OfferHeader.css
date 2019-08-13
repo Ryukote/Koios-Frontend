@@ -1,0 +1,90 @@
+#offerHeader {
+    width: 100%;
+    display: inline-block;
+    background-color: #3d4ddb;
+}
+
+.centerTable {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+}
+
+.thSpace {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#headerTop {
+    width: inherit;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.headerTopElement {
+    width: 150px;
+    display: inline-block;
+}
+
+#headerBottom {
+    width: inherit;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#offerNumber {
+    display: inline-block;
+    margin-right: 20px;
+    color: white;
+}
+
+#offerDateTime{
+    display: inline-block;
+    margin-left: 20px;
+    color: white;
+}
+
+.buttonStyle {
+    width: inherit;
+}
+
+.headerBottomStyle {
+    width: 150px;
+    text-align: center;
+    display: inline-block;
+}
+
+.buttonBottomStyle {
+    width: 150px;
+    display: inline-block;
+}
+
+.buttonSpace {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#articlesHeader {
+    width: 100%;
+    display: inline-block;
+    background-color: #369c76;
+}
+
+.articleMiddle {
+    width: inherit;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#articleButtonSpace {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.totalPriceStyle {
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+}
